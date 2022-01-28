@@ -15,7 +15,7 @@
 ## Getting Started
 
 - Download or clone this project to your machine.
-- Run the app from Android Studio. You may have to download the correct version of Gradle 
+- Run the app from Android Studio. You may have to download the correct version of Gradle 4.10 
 and Android build tools from the Android SDK Manager.
 
 
